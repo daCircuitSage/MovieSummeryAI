@@ -1,0 +1,52 @@
+# =========================
+# CORE LLM FRAMEWORK
+# =========================
+langchain
+langchain-core
+langchain-community
+langgraph
+
+# =========================
+# LLM PROVIDERS
+# =========================
+langchain-google-genai
+langchain-mistralai
+langchain-groq
+
+# Base SDKs
+google-generativeai
+mistralai
+groq
+
+# =========================
+# EMBEDDINGS + VECTOR DB
+# =========================
+faiss-cpu
+chromadb
+sentence-transformers
+
+# =========================
+# ENV + UTILITIES
+# =========================
+python-dotenv
+pydantic
+requests
+tqdm
+
+# =========================
+# TEXT PROCESSING
+# =========================
+tiktoken
+
+# =========================
+# OPTIONAL (RECOMMENDED)
+# =========================
+fastapi
+uvicorn
+httpx
+streamlit
+
+# =========================
+# DEV + DEBUGGING
+# =========================
+rich
